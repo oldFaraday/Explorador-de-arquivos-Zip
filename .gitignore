@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Application data / Cache
+AppData/
+*.cache/
+*_cache/
+
+# ZIP data files (contain sensitive specs)
+*.zip
+*.backup_*.zip
+
+# Temporary extraction folders
+.tmp_extract_*/
+
+# Logs
+*.log
+logs/
+
+# Local configuration
+config.json
+settings.json

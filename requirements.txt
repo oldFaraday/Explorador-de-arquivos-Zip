@@ -1,0 +1,5 @@
+PySide6>=6.10
+mammoth>=1.9
+pypdfium2>=5.0
+pyzipper>=0.4
+watchdog>=3.0
